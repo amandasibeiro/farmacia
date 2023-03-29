@@ -447,7 +447,7 @@ html{
 @media (max-width:767px) {
 
     html{
-        font-size: 55%;
+        font-size: 50%;
     }
     .header{
         padding: 2rem;
@@ -494,6 +494,26 @@ html{
        
         justify-content: flex-start;
     
+    }
+
+    .background-content {
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+
+    .background-content h1 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+
+    .background-content p {
+        font-size: 11px;
+    }
+
+    .contato-btn {
+        margin-bottom: 5px;
+
     }
 
 

@@ -512,11 +512,15 @@ html{
     }
 
     .contato-btn {
-        margin-bottom: 5px;
+        margin-bottom: 100px;
 
     }
 
+    .footer {
+        width: 145vw;
+        height: 135vh;
+}
 
-
-
+.content-image {
+    margin-left: 5px;
 }
